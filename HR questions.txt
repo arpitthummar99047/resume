@@ -1,0 +1,146 @@
+1) Introduce yourself.
+
+Hello, my name is Arpit Thummar. I hold a Backend developer certificate from Tops Technology. I bring 10 months of experience in Python, I completed my backend and am excited about the opportunity to contribute my skills and expertise to your company. 
+
+ 
+
+2) Why did you choose this language? 
+
+I chose Python as my primary programming language for back-end development due to its exceptional readability, flexibility, and extensive ecosystem. Python's clean syntax and emphasis on readability make it a pleasure to work with, enhancing collaboration and code maintenance. 
+
+ 
+
+3) Explain your project. 
+
+I am currently involved in an e-commerce project facilitating seamless interactions between sellers and buyers, creating a dynamic and user-friendly platform. The project aims to provide a robust marketplace experience, fostering a secure and efficient environment for sellers and buyers. 
+
+feature:-
+
+add to cart 
+safe payment methods
+easy to use
+product category
+upload multiple images of products
+
+
+
+4) What do you know about our company?
+
+Thank you for inquiring. In my investigation of {company name}, I found that it is widely acknowledged for its innovative teaching methods and consistently delivers sustainable products for clients. 
+
+ 
+
+5) What are your strengths? 
+
+One of my key strengths is my strong problem-solving ability. I enjoy tackling complex challenges and breaking them down into manageable components. In my previous roles, I've successfully implemented solutions that not only resolved issues but also improved overall efficiency.     
+Another strength is my adaptability. In the dynamic field of web development, being able to quickly grasp new concepts and technologies is crucial. I have a track record of quickly adapting to changes and embracing new tools or methodologies to stay at the forefront of industry trends. 
+
+ 
+
+6) Specify your weakness.
+
+In terms of weaknesses, I would say that, as a fresher, I may lack extensive experience in certain advanced Python libraries and frameworks 
+I have a solid foundation in Python programming and have been actively working with Django. While I've gained proficiency in creating web applications and RESTful APIs using Django 
+
+
+7) What motivates you to do a good job?
+
+I am programmed to provide helpful and accurate information, aiming to assist users in various tasks. Positive feedback and knowing that I've been able to help others effectively are aspects that contribute to the overall success of my performance. Continuous improvement and meeting user expectations are key factors that drive the quality of my responses.
+
+
+8) What are your salary expectations?
+
+My salary expectations are in line with my experience and qualifications.
+If this is the right job for me, I'm sure we can agree on a salary.
+
+extra other points are:-
+if they want to hear a number Offer a range
+Think about your current salary
+Highlight your skills
+
+9) Tell me about your achievements.
+
+I actively participated in college fests, showcasing my diverse skills. In Khelmahotsav 2021, our team secured 1st place in kabaddi, 2nd place in digital gaming, and achieved 1st runner-up in the marathon. These experiences not only added to my overall development but also highlighted my ability to excel in both technical and physical pursuits.
+
+Additionally, I took part in a collaborative project that holds a special place in my academic journey. Our team designed and presented a bladeless fan, providing an innovative solution in the field of science and technology. This project not only showcased our technical skills but also allowed fellow participants to engage with cutting-edge ideas at our college science fest.
+
+
+10) Where else have you applied?
+
+ I have applied to several companies as part of my job search efforts. In addition to the opportunities I pursued independently, my academic institution also offers a placement program, and I have applied to positions through that program as well. I believe in exploring various options to find the best fit for my skills and career goals. 
+
+11) If given a choice would you like to work in a team or standalone?
+
+If given a choice, I would prefer to work in a team. I believe that collaboration and teamwork foster creativity, innovation, and a diverse range of perspectives. Working with a team allows individuals to leverage each other's strengths, share ideas, and collectively tackle challenges. Additionally, collaboration often leads to a more well-rounded and comprehensive approach to problem-solving. However, I also recognize the value of being able to work independently when necessary, and I am comfortable taking on individual responsibilities when the situation calls for it.
+
+12) What are your expectations from the company?
+
+My expectations from the company align with my professional goals and aspirations. I am looking for a workplace that values innovation, fosters a collaborative environment, and provides opportunities for continuous learning and growth. I hope to contribute my skills and expertise to meaningful projects that make a positive impact. 
+
+13) What makes you angry?
+
+One thing that can evoke frustration in me is a lack of clear communication or when important information is not effectively conveyed. 
+I recognize that challenges and disagreements are natural in any workplace, but I believe in addressing them effectively and finding constructive solutions. I am committed to maintaining a positive and solution-oriented mindset even in challenging situations.
+
+14) Whom do you consider as your role model?
+
+My role models are my mom and dad because of their passionate approach to work and their unwavering dedication. They have instilled in me a strong work ethic and the belief that passion is a driving force behind success. Witnessing their commitment to their professions and the care they put into their work has been a constant source of inspiration for me.
+
+15)  Tell me about your hobbies.
+
+> I have a diverse set of hobbies that reflect my love for various experiences. Cooking is a passion of mine; I find joy in experimenting with different cuisines and creating delicious meals. It not only allows me to unwind but also provides a creative outlet.
+> Traveling is another hobby that I cherish. Exploring new places, immersing myself in different cultures, and meeting people from diverse backgrounds contribute to my personal growth. The experiences gained during my travels have broadened my perspective and enriched my life.
+> I also enjoy driving, finding it to be a therapeutic activity. Whether it's a scenic drive through the countryside or navigating through the city, I appreciate the sense of freedom and relaxation that driving offers.
+
+16) Where do you see yourself five years down the line? 
+
+In the next five years, I envision myself furthering my professional growth and contributing significantly to the success of the company I am a part of. I aspire to take on increasingly challenging roles that allow me to expand my skill set, take on more responsibilities, and make a meaningful impact.
+
+17)  Are you comfortable extending your work timings and working over weekends?
+
+I am generally open to extending my work timings and occasionally working over weekends when the job demands it. I believe in delivering high-quality work and meeting deadlines. However, I also understand the importance of maintaining a healthy work-life balance. While I am willing to put in extra effort when required, I appreciate a workplace that values its employees' well-being. I believe that a balanced approach contributes to both personal satisfaction and enhanced productivity in the long run. If there are specific expectations or situations where extended hours are needed, I am open to discussing and finding a mutually beneficial solution.
+
+
+18) How long would you work for us if hired?
+
+I am genuinely excited about the opportunity to contribute to {Company Name}, and I see myself building a long-term and meaningful career here. I am committed to bringing my skills and dedication to the team and contributing to the company's success. However, I also understand that career paths can evolve, and circumstances may change. As of now, I intend to invest my skills and energy into growing with {Company Name}. I believe in fostering a positive and collaborative work environment, and I am confident that my contributions can make a lasting impact. I look forward to the opportunity to contribute to the success of the company over the long term.
+
+19)  Can you work under pressure or deadlines? 
+
+Yes, I am equipped to handle work under pressure and meet deadlines effectively. Throughout my academic and professional experiences, I have encountered situations that required quick decision-making, adaptability, and efficient time management. I thrive in challenging environments and see pressure as an opportunity to showcase my problem-solving skills and deliver high-quality results. I am accustomed to prioritizing tasks, staying organized, and working efficiently to meet deadlines. 
+
+20) What is the biggest mistake you ever made? 
+
+
+21) What was the toughest decision you ever had to make? 
+
+
+22) What was the biggest failure you had to face? 
+
+
+23) Why should I hire you?
+
+As a web developer specializing in Python and Django, I bring a unique set of skills and experiences that make me an excellent fit for this role. Here are several reasons why I believe I would be a valuable addition to your team.
+
+
+24) Would you be ready to relocate if hired?
+
+I am open to the possibility of relocation for the right opportunity. While I have established a strong foundation in my current location, I am motivated by the prospect of contributing to a dynamic team and taking on new challenges. If the role at [Company Name] aligns with my career goals and offers a stimulating environment, I am certainly open to discussing relocation.
+
+
+25)  Do you know anyone who works for us?
+
+{if know}
+I do have some connections within {Company Name}. In preparation for this interview, I reached out to {person's name} who works in {department or role}. Our conversation provided valuable insights into the company culture and the nature of the work. While I don't have a direct professional relationship with {him/her}, the discussion further fueled my enthusiasm for the opportunity to contribute to {Company Name}.
+
+{if don't know}
+At the moment, I don't have any direct connections with current employees at {Company Name}. However, my research into the company and conversations with individuals in the industry have consistently highlighted {Company Name}'s positive reputation, innovative work, and collaborative culture. I am eager to become a part of such a dynamic team and contribute my skills and experiences to help achieve the company's goals. While I may not have existing connections, I am excited about the opportunity to build professional relationships within the organization."
+
+
+
+
+
+
+
+
+ 
